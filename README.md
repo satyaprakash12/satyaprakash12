@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android App Development/Rest APIs/
 - 🌱 I’m currently working as IIIT Naya Raipur as a Android develper
 - 💞️ I’m looking to collaborate on android projects/Rest APIs
-- 📫 How to reach me satyaprakas@gmail.com
+- 📫 How to reach me satyaprakas5555@gmail.com
 
 <!---
 satyaprakash12/satyaprakash12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
