@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyaprakash12
 - 👀 I’m interested in Android App Development/Rest APIs/Android Automation/Creating Custom Gauges 
-- 🌱 I’m currently working as People Tech Group Inc.
+- 🌱 I’m currently working at People Tech Group Inc. as Android Automotive developer
 - 💞️ I’m looking to collaborate on android projects/Rest APIs
 - 📫 How to reach me satyaprakas5555@gmail.com
 
